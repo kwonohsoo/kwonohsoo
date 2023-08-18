@@ -32,7 +32,7 @@
   </a>
  <br/><br/><br/>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojunnnnn&count_bg=%234E97D4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonohsoo&count_bg=%234E97D4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <!-- 깃헙 커밋수, 풀리퀘수 등 보여주는 카드 및 어떤 언어를 주력으로 사용했는지 나오는 표 
