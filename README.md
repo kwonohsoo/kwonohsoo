@@ -3,14 +3,14 @@
 <div align="center">   
   <h2>🛠️ Tech Stack 🛠️</h2>
   <h3>BackEnd</h3>
-  <img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-369F36?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MyBatis-F80000?style=for-the-badge&logo=MyBatis&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-5C6BC0?style=flat-square&logo=mySQL&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/redis-F80000?style=for-the-badge&logo=redis&logoColor=white">&nbsp 
+<img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=Java&logoColor=white" height="24" /> 
+<img src="https://img.shields.io/badge/Spring-369F36?style=flat-square&logo=Spring&logoColor=white" height="24" /> 
+<img src="https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white" height="24" /> 
+<img src="https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white" height="24" /> 
+<img src="https://img.shields.io/badge/MyBatis-F80000?style=for-the-badge&logo=MyBatis&logoColor=white" height="24" /> 
+<img src="https://img.shields.io/badge/MySQL-5C6BC0?style=flat-square&logo=mySQL&logoColor=white" height="24" /> 
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="24" /> 
+<img src="https://img.shields.io/badge/redis-F80000?style=for-the-badge&logo=redis&logoColor=white" height="24" /> 
   <h3>FrontEnd</h3>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"></a>&nbsp
